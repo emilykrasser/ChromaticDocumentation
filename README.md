@@ -15,4 +15,4 @@ To Do list for this week:
 [] Impliment puzzle win condition
 
 Here are more pictures from the start of this process :) :
-![alt text](/Images/image0.png)
+![alt text](..\Images\image0.png)
