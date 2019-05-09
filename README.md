@@ -5,7 +5,7 @@ This week we were able to iron out the main theme of our game as well as the mai
 The roles for each team member has been split up as follows:
 * Emily Krasser as the art person
 * Kayla Sprague as the script technician
-* Sufiah Ahmad as the ~torturer~ puzzlemaster
+* Sufiah Ahmad as the ~~torturer~~ puzzlemaster
 * All of us will be contributing to the main creation of the game
 
 To Do list for this week:
@@ -15,4 +15,8 @@ To Do list for this week:
 - [ ] Impliment puzzle win condition
 
 Here are more pictures from the start of this process :) :
-![alt text](/Images/image0.png)
+![alt text](/Images/image0.jpg)
+![alt text](/Images/image1.jpg)
+![alt text](/Images/image2.jpg)
+![alt text](/Images/image3.jpg)
+![alt text](/Images/image4.jpg)
