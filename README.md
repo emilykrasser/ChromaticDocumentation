@@ -9,10 +9,10 @@ The roles for each team member has been split up as follows:
 * All of us will be contributing to the main creation of the game
 
 To Do list for this week:
-[] Impliment item pickup and inventory
-[] Impliment NPC interactions
-[] Start implimenting puzzle 1
-[] Impliment puzzle win condition
+- [ ] Impliment item pickup and inventory
+- [ ] Impliment NPC interactions
+- [ ] Start implimenting puzzle 1
+- [ ] Impliment puzzle win condition
 
 Here are more pictures from the start of this process :) :
-![alt text](..\Images\image0.png)
+![alt text](/Images/image0.png)
