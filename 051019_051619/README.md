@@ -1,7 +1,7 @@
 ## Digital Prototype Update (5/10/19 - 5/16/19)
 
 **Chromatic (krō-ˈma-tik) is defined by “of or relating to color or color phenomena or sensations”, which describes the development process thus far. An array of ideas have been shared and mutual enthusiasm has pushed us to develop the fundamental mechanics of the game. The following were our key prototype elements:**
-[Link to the First Prototype!](https://emilykrasser.github.io/Chromatic/FirstPrototype/)
+[Link to the First Prototype!](https://emilykrasser.github.io/Chromatic/FirstDigitalPrototype/)
 
 _Main Menu_ 
 
